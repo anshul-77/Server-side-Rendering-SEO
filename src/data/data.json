@@ -1,0 +1,80 @@
+[
+  {
+  "id": 1,
+  "name": "anshul",
+  "phone": "9423680662",
+  "email": "anshulpatil2702@gmail.com"
+  },
+  {
+  "id": 4,
+  "name": "Bob Williams",
+  "phone": "444-555-6666",
+  "email": "bob.williams@example.com"
+  },
+  {
+  "id": 5,
+  "name": "Eva Brown",
+  "phone": "777-888-9999",
+  "email": "eva.brown@example.com"
+  },
+  {
+  "id": 6,
+  "name": "Michael Davis",
+  "phone": "123-456-7890",
+  "email": "michael.davis@example.com"
+  },
+  {
+  "id": 7,
+  "name": "Sophia Martinez",
+  "phone": "098-765-4321",
+  "email": "sophia.martinez@example.com"
+  },
+  {
+  "id": 8,
+  "name": "David Wilson",
+  "phone": "111-222-3333",
+  "email": "david.wilson@example.com"
+  },
+  {
+  "id": 9,
+  "name": "Olivia Taylor",
+  "phone": "444-555-6666",
+  "email": "olivia.taylor@example.com"
+  },
+  {
+  "id": 10,
+  "name": "James Anderson",
+  "phone": "777-888-9999",
+  "email": "james.anderson@example.com"
+  },
+  {
+  "id": 11,
+  "name": "John Doe",
+  "phone": "123-456-7890",
+  "email": "john.doe@example.com"
+  },
+  {
+  "id": 12,
+  "name": "Jane Smith",
+  "phone": "098-765-4321",
+  "email": "jane.smith@example.com"
+  },
+  {
+  "id": 13,
+  "name": "Alice Johnson",
+  "phone": "111-222-3333",
+  "email": "alice.johnson@example.com"
+  },
+  {
+  "id": 14,
+  "name": "Ronaldo",
+  "phone": "7896541232",
+  "email": "ronaldo@gmail.com"
+  },
+  {
+  "id": 15,
+  "name": "abd",
+  "phone": "4561234561",
+  "email": "abd@gmail.com"
+  }
+  ]
